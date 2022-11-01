@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zubair</h1>
-<h3 align="center">A full stack developer from India, Hyderabad.</h3>
+<h3 align="center">Software Developer and Entrepreneur with 4+ years of experience building and managing web products across industries from EdTech, HRTech and FinTech.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzubairahmed001&label=Profile%20views&color=0e75b6&style=flat" alt="syedzubairahmed001" /> </p>
 
@@ -15,7 +16,6 @@
 
 - 📫 How to reach me **syedzubairahmed001@gmail.com**
 
-- ⚡ Fun fact **I love JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
